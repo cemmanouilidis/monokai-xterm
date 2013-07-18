@@ -1,0 +1,56 @@
+#
+# This is the configuration file for xtermcontrol.
+#
+# Each line in the file is either a comment or contains an attribute.
+# Attributes consist of a keyword and an associated value:
+#
+# keyword = value # comment
+#
+# Whitespace is ignored in attributes unless within a quoted value. The
+# character '#' is taken to begin a comment. Each '#' and all remaining
+# characters on that line is ignored.
+#
+# Name: Monokai colors 
+#
+
+# foreground color
+foreground="#F6F5EE"
+
+# background color
+background=#1D1D19
+
+# highlight color
+highlight="#61B8D0"
+
+# cursor color
+#cursor="black"
+
+# mouse pointer foreground color
+#mouse-foreground="black"
+
+# mouse pointer background color
+#mouse-background="white"
+
+# size and/or position
+geometry="90x25"
+
+# font
+#font="fixed"
+
+# color definitions
+color0=#1C1D19
+color1=#D01B24
+color2=#A7D32C
+color3=#D8CF67
+color4=#61B8D0
+color5=#695ABB
+color6=#D53864
+color7=#FEFFFE
+color8=#1C1D19
+color9=#D12A24
+color10=#A7D32C
+color11=#D8CF67
+color12=#61B8D0
+color13=#695ABB
+color14=#D53864
+color15=#FEFFFE
